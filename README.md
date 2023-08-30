@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student in the Biostatistics SM2 program at the Harvard Chan School of Public Health
+
 <!--
 **MMel099/MMel099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
